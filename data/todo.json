@@ -1,0 +1,18 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Complete DSA",
+      "description": "Complete all Data Structures and Algorithms practice",
+      "deadline": "12:00 PM",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Go to Supermarket",
+      "description": "Visit the supermarket for shopping",
+      "deadline": "12:00 PM",
+      "completed": true
+    }
+  ]
+}
